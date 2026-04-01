@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.0.85 Release]() = `*Tool files & folder*`
+- [💾 v.0.85 Release](https://github.com/Civilization-VI-DLC-Unlocker/.github/releases/) = `*Tool files & folder*`
 
 ---
 
